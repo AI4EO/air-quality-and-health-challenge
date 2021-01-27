@@ -9,10 +9,10 @@ This repository contains a Jupyter notebook and utility functions to get you sta
 In order to run the example notebook you would need to download the training and validation datasets, and set-up the Docker environment provided with read/write permissions to the datasets. To do so, do the following:
 
  * download the Docker image provided;
- * load the image ```bash $ sudo docker load < ai4eo-public.tar ```;
- * run the docker using the utility bash script ```bash $ sh run_ai4eo_uhost.sh```;
- * attach the container ```bash $ sudo docker container attach ai4eo-container-uhost```;
- * from within the attached container run JupyterLab ```bash $ jupyter lab --ip 0.0.0.0 --port 8888 --no-browser```;
+ * load the image running from terminal `sudo docker load < ai4eo-public.tar `;
+ * run the docker using the utility bash script `sh run_ai4eo_uhost.sh`;
+ * attach the container `sudo docker container attach ai4eo-container-uhost`;
+ * from within the attached container terminal run JupyterLab `jupyter lab --ip 0.0.0.0 --port 8888 --no-browser`;
  * click on one of the links to JupyterLab home and you are ready to go. 
  
 ## Help and support
