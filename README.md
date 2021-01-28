@@ -2,7 +2,7 @@
 
 Welcome to the AI4EO Air Quality and Health Challenge!! 
 
-This repository contains a [Jupyter notebook](starter-pack.ipynb) and [utility functions](utils.py) to get you started exploring and analysing the data. Simply clone the repository or download the files.
+This repository contains a [Jupyter notebook](starter-pack.ipynb) and [utility functions](utils.py) to get you started exploring and analysing the data. Simply clone the repository or download the files. For a more user-friendly version, visualise the [notebook in nbviewer](https://nbviewer.jupyter.org/github/AI4EO/air-quality-and-health-challenge/blob/main/starter-pack.ipynb) 
 
 ## Requirements
 
