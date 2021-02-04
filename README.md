@@ -17,5 +17,5 @@ In order to run the example notebook you would need to download the training and
  
 ## Help and support
 
-For any issue relating to the notebook or the data, open a ticket in the challenge Forum, so that we and the community can adequately support you. For improvements and fixes ot the notebook, issues and pull requests can be opened in this repository.
+For any issue relating to the notebook or the data, open a ticket in the challenge Forum, so that we and the community can adequately support you. For improvements and fixes to the notebook, issues and pull requests can be opened in this repository.
  
